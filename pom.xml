@@ -29,7 +29,7 @@
 
 	<scm>
 		<connection>scm:git:git@github.com:jorgeacetozi/notepad.git</connection>
-		<developerConnection>scm:git:git@github.com:jorgeacetozi/notepad.git</developerConnection>
+		<developerConnection>scm:git:git@github.com:ab01/notepad.git</developerConnection>
 		<url>scm:git:git@github.com:jorgeacetozi/notepad.git</url>
 		<tag>HEAD</tag>
 	</scm>
